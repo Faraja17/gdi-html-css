@@ -1,0 +1,6 @@
+.needs <std>
+
+int main(){
+	assert(1 == 1, "Failed 1 == 1 assert");
+	return 0;
+};
