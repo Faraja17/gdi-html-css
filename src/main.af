@@ -1,0 +1,7 @@
+.needs <std>
+import * from "io" under io;
+
+int main(){
+	io.print("Hello, World!\n");
+	return 0;
+};
